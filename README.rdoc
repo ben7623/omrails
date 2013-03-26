@@ -1,3 +1,7 @@
+== This is a test...
+
+This is the sample code for One Month Rails
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
